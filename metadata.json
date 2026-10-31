@@ -1,0 +1,6 @@
+{
+  "name": "Indian Life RP: Middle Class Edition",
+  "description": "Apni Zindagi Khud Banao – A 3D open-world Indian life simulation with family, education, careers, vehicles, Cyber Cafe, and Godot 4 architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
